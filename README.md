@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Nitiksh                                                                                       started:2/Nov/2025
+## Hi there 👋 I'm Nitiksh                                                                                       
 
 I'm a passionate student and backend enthusiast who loves building scalable systems and solving real-world problems through code.
 I Have a keen intrest in a Emerging new tech of Data Science like in the Deep Learning/Neurel network
@@ -16,3 +16,7 @@ Let’s connect and build something great together!
                   insta: https://www.instagram.com/nitiksh_das
                   email : iamnitiksh@yahoo.com
                   ]
+
+I created this new account to publish here some of the open source code where everyone must contribute and grow 
+so let's see how this Account grow and reach to its destination of formation!!
+Date : 2/November/2025
