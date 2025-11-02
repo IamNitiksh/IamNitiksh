@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Nitiksh
+## Hi there 👋 I'm Nitiksh                                                                                       started:2/Nov/2025
 
 I'm a passionate student and backend enthusiast who loves building scalable systems and solving real-world problems through code.
 I Have a keen intrest in a Emerging new tech of Data Science like in the Deep Learning/Neurel network
